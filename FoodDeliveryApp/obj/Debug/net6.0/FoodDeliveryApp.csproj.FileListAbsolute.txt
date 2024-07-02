@@ -61,3 +61,12 @@ F:\facultate\practica\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net6.0\refint\Fo
 F:\facultate\practica\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net6.0\FoodDeliveryApp.pdb
 F:\facultate\practica\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net6.0\FoodDeliveryApp.genruntimeconfig.cache
 F:\facultate\practica\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net6.0\ref\FoodDeliveryApp.dll
+F:\facultate\practica\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net6.0\FoodDeliveryApp.MvcApplicationPartsAssemblyInfo.cs
+F:\facultate\practica\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net6.0\AutoMapper.dll
+F:\facultate\practica\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\facultate\practica\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\facultate\practica\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\facultate\practica\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\facultate\practica\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\facultate\practica\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\facultate\practica\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
